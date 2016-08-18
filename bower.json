@@ -1,0 +1,17 @@
+{
+    "name": "lindenhill-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Barry Schwartz"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/lindenhill-bower.git"
+    },
+    "description": "Linden Hill font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
